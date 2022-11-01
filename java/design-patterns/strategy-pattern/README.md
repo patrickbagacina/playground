@@ -8,7 +8,7 @@ This project is a Duck Simulator using the Strategy Pattern.
 - Enforce has-a relationship
 - Favors composition than inheritance
 
-## Project Definition
+## Project Overview
 
 - Creates instance of Duck objects with quacking and flying behaviors.
 - Each behavior of Duck objects can be dynamically set on the fly.
